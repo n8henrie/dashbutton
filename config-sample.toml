@@ -1,0 +1,5 @@
+device = "wlan0"
+dash_macs = [
+"bc:26:ad:4e:4e:a5",
+"84:47:d5:af:92:a3",
+]
